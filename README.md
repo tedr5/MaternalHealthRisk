@@ -1,4 +1,4 @@
-# Maternal Health Health Risk Analysis
+# Maternal Health Risk Analysis
 
 ## 📖 Description
 
