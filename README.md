@@ -39,7 +39,8 @@ This repository contains two Jupyter Notebooks focused on predicting maternal he
 
 ## 📊 Dataset
 
-The dataset https://archive.ics.uci.edu/dataset/863/maternal+health+risk consists of 7 variables about 1013 patients, including:
+The dataset https://archive.ics.uci.edu/dataset/863/maternal+health+risk 
+consists of 7 variables about 1013 patients, including:
 
 - Age
 - Blood Pressure
